@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.bak
+.venv/
+.idea/
+build/
+dist/
+venv/
+ferramentas/resultado_dos_testes*.txt
+*.antes_*
